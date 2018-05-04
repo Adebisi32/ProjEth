@@ -1,0 +1,10 @@
+Package: ProjEth
+Type: Package
+Title: Project Ethiopia
+Version: 0.1.0
+Author: Adebisi Adeyemi
+Maintainer: Adebisi Adeyemi <adadeyemi@clarku.edu>
+Description: Creating this package to host the Kebele shapefile on Github
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
